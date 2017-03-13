@@ -1,15 +1,15 @@
 ## Portfolio
 
-You can use the [editor on GitHub](https://github.com/aykramer/aykramer.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<!---You can use the [editor on GitHub](https://github.com/aykramer/aykramer.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.--->
 
-You can find the examples for my work below. A more detailed portfolio/blog is coming soon..
+You can find the examples for my work below. (A more detailed portfolio/blog is coming soon..)
 
-### Tableau Visualization
+### Web Scraping
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+US Patent Office provides detailed data for patent filings. By using BeautifulSoup python library, I retrieved patent data belonging to the University of Washington. 
+<!---
 ```markdown
 Syntax highlighted code block
 
@@ -27,13 +27,26 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+--->
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Monte Carlo Sampling from Spatial Datasets
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aykramer/aykramer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Tableau Visualization
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Tableau is a very practical tool to visualize and analyze the data. I used Tableau to conduct a data analysis of the publications in the Lone Woman and Last Indians archives. The project included webscrapping the data, cleaning the data and visualizing it.
+
+The visualization includes a timeline for the frequency of the publications, frequency of the tropes and publications and using filters.
+
+- [Lone Woman] (https://public.tableau.com/profile/ayse.kramer#!/vizhome/Trope070216/Story1)
+
+
+### Spatial Data
+
+I used python script to organize metadata for scanned tiles of aerial images. I stored the metadata in geojson file format to be called using Terraformer library of ESRI. Finally, I used ArcGIS Javascript API to call the images according to the user's query for the county and the year.
+
+- [South Carolina Aerial Photos] (http://library.sc.edu/aerialphotos/)
+
+
+
