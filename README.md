@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 You can find the examples for my work below. A more detailed portfolio/blog is coming soon..
 
-### Markdown
+### Tableau Visualizations
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
