@@ -10,21 +10,21 @@ You can find the examples for my work below. (A more detailed portfolio/blog is 
 
 US Patent Office provides detailed data for patent filings. By using BeautifulSoup python library, I retrieved patent data belonging to the University of Washington. 
 <!---```markdown
-Syntax highlighted code block
+<!---Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<!---# Header 1
+<!---## Header 2
+<!---### Header 3
 
-- Bulleted
-- List
+<!---- Bulleted
+<!---- List
 
-1. Numbered
-2. List
+<!---1. Numbered
+<!---2. List
 
-**Bold** and _Italic_ and `Code` text
+<!---**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+<!---[Link](url) and ![Image](src)
 ```--->
 
 ### Monte Carlo Sampling from Spatial Datasets
