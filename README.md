@@ -10,19 +10,15 @@ You can find the examples for my work below. (A more detailed portfolio/blog is 
 
 US Patent Office provides detailed data for patent filings. By using BeautifulSoup python library, I retrieved patent data belonging to the University of Washington. 
 
-
-### Monte Carlo Sampling from Spatial Datasets
-
-
-
 ### Tableau Visualization
 
 Tableau is a very practical tool to visualize and analyze the data. I used Tableau to conduct a data analysis of the publications in the Lone Woman and Last Indians archives. The project included webscrapping the data, cleaning the data and visualizing it.
 
 The visualization includes a timeline for the frequency of the publications, frequency of the tropes and publications and using filters.
-
 - [Lone Woman](https://public.tableau.com/profile/ayse.kramer#!/vizhome/Trope070216/Story1)
 
+Patents owned by the University of Washington:
+- [UW Patent Data](https://public.tableau.com/profile/ayse.kramer#!/vizhome/UW_patent/Story1)
 
 ### Spatial Data
 
